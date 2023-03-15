@@ -1,0 +1,13 @@
+{
+  "global": {
+    "card": {
+      "value": "200px",
+      "type": "sizing",
+      "description": "card height"
+    },
+    "card1": {
+      "value": "50%",
+      "type": "opacity"
+    }
+  }
+}
